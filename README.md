@@ -1,3 +1,4 @@
-#Testrepo
+#Testrepo README
 
-* Nicole Blackburn
+- Nicole Blackburn
+- this is a bullet point
